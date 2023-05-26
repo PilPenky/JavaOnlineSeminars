@@ -55,9 +55,6 @@ public class allLaptops {
                                 while (filterDigit != 0) {
 
                                         switch (filterDigit) {
-                                                // case 0:
-                                                // // Алгоритм поиска по фильтрам запихать в метод и этот метод сюда.
-                                                // break;
                                                 case 1:
                                                         System.out.print("\033[H\033[2J");
                                                         System.out.println(
